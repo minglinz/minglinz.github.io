@@ -2,7 +2,7 @@
 title: "A Central Air Conditioning Control Strategy to Enhance Thermal Comfort in Library Buildings"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-03-03
 venue: 'Conference: The International Symposium on Heating, Ventilation and Air Conditioning'
 slidesurl: 'http://minglinz.github.io/files/slides1.pdf'
